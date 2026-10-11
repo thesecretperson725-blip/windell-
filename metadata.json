@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Attendance System - BSIT Set B MS",
+  "description": "QR Code-Based BSIT Set B Student Attendance Management System with changeable date and time, QR scanner, time-in and time-out tracking, 68 students directory, and reporting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
